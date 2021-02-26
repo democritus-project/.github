@@ -7,24 +7,24 @@ assignees: ''
 
 ---
 
-**Context**
+# Context
 
 Python version (e.g. 3.9.1): 
-Version of this project being used (e.g. 2021-01-13): 
+Version of this project being used (e.g. 1.2021.01.13): 
 Other info (if applicable): 
 
-**What I did**
+# What I did
 
 
 
-**What I expected to happen**
+# What I expected to happen
 
 
 
-**What actually happened**
+# What actually happened
 
 
 
-**Other details**
+# Other details
 
 

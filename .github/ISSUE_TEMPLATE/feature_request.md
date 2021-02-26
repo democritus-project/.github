@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-**WHAT I want this project to do (or not do)**
+# What?
 
+<!--- WHAT I want this project to do (or not do) --->
 
+# Why?
 
-**WHY I want this project to have this feature**
+<!--- WHY I want this project to have this feature --->
 
+# How?
 
+<!--- HOW we might implement this feature --->
 
-**HOW we might implement this feature**
-
-
-
-**Additional thoughts**
+# Additional thoughts
 
 
