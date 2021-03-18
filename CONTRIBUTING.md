@@ -1,4 +1,4 @@
-# Contributing a PR 🏋️
+# Contributing a PR 🥇 
 
 Hello 👋 ! Thank you for your interest in contributing to this project; we couldn't do it without you, so thank you!
 
